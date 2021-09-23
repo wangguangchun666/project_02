@@ -1,1 +1,0 @@
-console.log("这是main中的js文件");
